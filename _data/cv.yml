@@ -1,122 +1,191 @@
 cv:
   name: Sana Younas
-  location: Portsmouth, United Kingdom
+  label: PhD Candidate in Economics
   email: sanayounaseco@gmail.com
-  website: https://sanayounas.substack.com/
+  location: Portsmouth, United Kingdom
+  image: ""
+  summary: Economist and university educator with a PhD in Economics nearing completion at the University of Portsmouth, and teaching experience at undergraduate and postgraduate levels in the UK and Pakistan. Active research in development economics, energy poverty, machine learning, and global supply chain networks.
+
   social_networks:
     - network: LinkedIn
       username: sana-younas-2a4831bb
-    - network: ORCID
-      username: 0009-0000-9818-9494
 
   sections:
-    profile:
-      - Economist and university educator with a PhD in Economics nearing completion (University of Portsmouth) and teaching experience at undergraduate and postgraduate levels in the UK and Pakistan. Active research in development economics, energy poverty, machine learning, and global supply chain networks.
-
-    education:
-      - institution: University of Portsmouth
+    Education:
+      - institution: University of Portsmouth, Faculty of Business and Law
+        location: Portsmouth, UK
+        url: https://www.port.ac.uk/
         area: Economics
-        degree: PhD
-        date: Expected 2026
+        studyType: PhD (expected 2026)
+        start_date: 2023
+        end_date: 2026
         highlights:
-          - "Thesis: Child Education and Energy Poverty in South Asia: A Capability Approach Perspective"
-          - "Empirical methods: panel data, IV/2SLS, machine learning, explainable AI, network analysis"
-          - All empirical analysis completed; thesis in final writing stage
+          - "Thesis: Child Education and Energy Poverty in South Asia: A Capability Approach Perspective."
+          - "Empirical methods: panel data, IV/2SLS, machine learning, explainable AI, network analysis."
+          - All empirical analysis completed; thesis in final writing stage.
+
       - institution: University of Portsmouth, CADI
-        area: Higher Education
-        degree: PGCert HE
-        date: 2026 – present
+        location: Portsmouth, UK
+        area: Higher Education Teaching
+        studyType: Postgraduate Certificate in Higher Education (PGCert HE)
+        start_date: 2026
+        end_date: present
         highlights:
-          - Accredited against Advance HE's Professional Standards Framework (PSF 2023); leads to Fellowship of the Higher Education Academy (FHEA)
-      - institution: University of Portsmouth
-        area: Graduate Professional Development in Teaching & Learning (GPROF)
-        degree: Cert.
-        date: "2026"
-        highlights:
-          - Six-part programme covering curriculum design, inclusive pedagogy, assessment strategy, student engagement, and reflective practice
-      - institution: Pakistan Institute of Development Economics (PIDE), Islamabad
-        area: Economics (doctoral coursework)
-        date: 2018 – 2020
-        highlights:
-          - Advanced training in econometrics and development economics; competitive scholarship
-      - institution: International Islamic University, Islamabad
-        area: Economics
-        degree: MS
-        date: "2018"
-        highlights:
-          - "Dissertation: Education, Labour Force Participation, and Economic Growth: Panel Data Evidence"
-      - institution: University of Karachi
-        area: Economics
-        degree: MA
-        date: "2010"
-        highlights:
-          - Silver Medal — 2nd position in Economics
+          - Accredited against Advance HE's Professional Standards Framework (PSF 2023); leads to Fellowship of the Higher Education Academy (FHEA).
 
-    teaching_experience:
+      - institution: University of Portsmouth
+        location: Portsmouth, UK
+        area: Teaching & Learning in Higher Education
+        studyType: GPROF — Graduate Professional Development
+        start_date: 2026
+        end_date: 2026
+        highlights:
+          - Six-part certified programme covering curriculum design, inclusive pedagogy, assessment strategy, student engagement, and reflective practice.
+
+      - institution: Pakistan Institute of Development Economics (PIDE)
+        location: Islamabad, Pakistan
+        area: Economics
+        studyType: Doctoral coursework
+        start_date: 2018
+        end_date: 2020
+        highlights:
+          - Advanced training in econometrics and development economics; competitive scholarship.
+
+      - institution: International Islamic University
+        location: Islamabad, Pakistan
+        area: Economics
+        studyType: MS
+        start_date: 2014
+        end_date: 2018
+        highlights:
+          - "Dissertation: Education, Labour Force Participation, and Economic Growth: Panel Data Evidence."
+
+      - institution: University of Karachi
+        location: Karachi, Pakistan
+        area: Economics
+        studyType: MA
+        start_date: 2008
+        end_date: 2010
+        highlights:
+          - Silver Medal — 2nd position in Economics.
+
+    Experience:
       - company: University of Portsmouth
         position: Sessional Teaching Fellow
-        date: 2023 – 2024
+        location: Portsmouth, UK
+        start_date: 2023
+        end_date: 2024
         highlights:
-          - Delivered undergraduate and postgraduate seminars and tutorials in Microeconomics, Macroeconomics, and Applied Economics to diverse international cohorts
-          - Designed, set, and marked assessments to UK Higher Education standards, with structured written and verbal feedback
-          - Developed inclusive learning materials and blended delivery (face-to-face and Moodle VLE); supported module administration and review
-      - company: Quaid-e-Azam University, Islamabad
-        position: Visiting Faculty
-        date: 2019 – 2021
-        highlights:
-          - Taught Fundamentals of Economics to undergraduate cohorts; designed course materials, delivered lectures and seminars
-          - Set and marked assessments; supervised student research projects; contributed to curriculum planning
+          - Delivered undergraduate and postgraduate seminars and tutorials in Microeconomics, Macroeconomics, and Applied Economics to diverse international cohorts.
+          - Designed, set, and marked assessments to UK Higher Education standards, providing structured written and verbal feedback.
+          - Developed inclusive learning materials and blended delivery (face-to-face and Moodle VLE); supported module administration and review.
 
-    working_papers:
+      - company: Quaid-e-Azam University
+        position: Visiting Faculty
+        location: Islamabad, Pakistan
+        start_date: 2019
+        end_date: 2021
+        highlights:
+          - Taught Fundamentals of Economics to undergraduate cohorts; designed course materials, delivered lectures and seminars.
+          - Set and marked assessments; supervised student research projects; contributed to curriculum planning.
+
+    Publications:
       - title: "Beyond Income: Predicting Household Cooking Energy Poverty in Pakistan for Policy Targeting"
         authors:
           - Sana Younas
-        journal: SSRN Working Paper
-        doi: 10.2139/ssrn.7071860
-        date: "2026"
+        publisher: SSRN Working Paper
+        releaseDate: 2026
+        url: https://doi.org/10.2139/ssrn.7071860
+
       - title: "Bottlenecks and Bargaining Power in the Global Rare Earth Supply Chain: A Multilayer Network Analysis"
         authors:
           - Sana Younas
-        journal: Submitted to Journal of Cleaner Production
-        date: "2026"
+        publisher: Submitted to Journal of Cleaner Production
+        releaseDate: 2026
+
       - title: "Eldest Child Education and Energy Poverty in Pakistan: Intergenerational Transfers"
         authors:
           - Sana Younas
-        journal: Working paper, University of Portsmouth
-        date: "2026"
+        publisher: Working paper, University of Portsmouth
+        releaseDate: 2026
+
       - title: "Developing and Validating the AI Digital Betrayal Scale (AI-DBS): A Psychometric Instrument for Measuring Student Responses to AI Trust Violations in Academic Settings"
         authors:
           - Sana Younas
           - et al.
-        journal: Working paper, under review
-        date: "2026"
+        publisher: Working paper, under review
+        releaseDate: 2026
 
-    presentations_and_conferences:
-      - bullet: USAEE/IAEE North American Conference — oral presentation (accepted, 2026)
-      - bullet: 14th Oxford Energy Day, Oxford University Centre for the Environment — poster (accepted, 2026)
-      - bullet: IAEE International Conference, Munich (accepted, September 2026)
-      - bullet: ICML Poster Presentation, UCL London (2026)
-      - bullet: ERUNI ERC London Research Workshop (2026)
-      - bullet: AYEW Monash Workshop on Applied Young Economists (2026)
+    Presentations:
+      - name: USAEE/IAEE North American Conference
+        summary: Oral presentation (accepted, 2026).
+      - name: 14th Oxford Energy Day, Oxford University Centre for the Environment
+        summary: Poster presentation (accepted, 2026).
+      - name: IAEE International Conference, Munich
+        summary: Accepted, September 2026.
+      - name: ICML Poster Presentation, UCL London
+        summary: "2026."
+      - name: ERUNI ERC London Research Workshop
+        summary: "2026."
+      - name: AYEW Monash Workshop on Applied Young Economists
+        summary: "2026."
 
-    professional_development:
-      - bullet: "ADB Excellerate Programme: Remote Sensing & Machine Learning for Poverty Estimation (2026)"
-      - bullet: "CEPEO-ADRUK: National Pupil Database, UCL (2025)"
-      - bullet: "RES Easter Training School: Environmental Economics, Bristol (2025)"
-      - bullet: Florence School of Regulation Autumn School, TUM-LARS, Munich (selected, September 2026)
+    Certificates:
+      - name: "ADB Excellerate Programme: Remote Sensing & ML for Poverty Estimation"
+        date: 2026
+        issuer: Asian Development Bank
+        icon: fa-solid fa-chart-line
+      - name: "CEPEO-ADRUK: National Pupil Database"
+        date: 2025
+        issuer: UCL
+        icon: fa-solid fa-database
+      - name: "RES Easter Training School: Environmental Economics"
+        date: 2025
+        issuer: Royal Economic Society, Bristol
+        icon: fa-solid fa-leaf
+      - name: Florence School of Regulation Autumn School (selected)
+        date: 2026
+        issuer: TUM-LARS, Munich
+        icon: fa-solid fa-bolt
 
-    academic_engagement_and_leadership:
-      - bullet: Mentor — Women in Economics Programme, University of Portsmouth (2025 – present)
-      - bullet: Mentee — Royal Economic Society Women's Mentoring Programme (2025 – present)
-      - bullet: PGR Student Representative — Business & Management Cluster, University of Portsmouth (2024 – 2025)
-      - bullet: Peer Reviewer — book chapter, Polycrisis and Economic Development in the Global South (Routledge, 2026)
+    Volunteer:
+      - company: University of Portsmouth
+        position: Mentor, Women in Economics Programme
+        location: Portsmouth, UK
+        start_date: 2025
+        end_date: present
 
-    skills:
-      - label: Software
-        details: STATA, R, Python (scikit-learn, pandas, shap), LaTeX, Git/GitHub
-      - label: Methods
-        details: IV/2SLS, DiD, panel data, propensity score matching, machine learning, explainable AI
-      - label: Memberships
-        details: Royal Economic Society (RES), IAEE, BIEE, IAFFE
-      - label: Languages
-        details: English (fluent), Urdu (native)
+      - company: Royal Economic Society
+        position: Mentee, Women's Mentoring Programme
+        location: UK
+        start_date: 2025
+        end_date: present
+
+      - company: University of Portsmouth
+        position: PGR Student Representative, Business & Management Cluster
+        location: Portsmouth, UK
+        start_date: 2024
+        end_date: 2025
+
+      - company: Routledge
+        position: Peer Reviewer — Polycrisis and Economic Development in the Global South (book chapter)
+        location: UK
+        start_date: 2026
+        end_date: 2026
+
+    Skills:
+      - name: Statistical & Econometric Software
+        icon: fa-solid fa-laptop-code
+        keywords: "STATA, R, Python (scikit-learn, pandas, shap), LaTeX, Git/GitHub"
+      - name: Methods
+        icon: fa-solid fa-chart-simple
+        keywords: "IV/2SLS, DiD, panel data, propensity score matching, machine learning, explainable AI"
+      - name: Professional Memberships
+        icon: fa-solid fa-users
+        keywords: "Royal Economic Society (RES), IAEE, BIEE, IAFFE"
+
+    Languages:
+      - name: English
+        summary: Fluent
+      - name: Urdu
+        summary: Native speaker
