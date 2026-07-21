@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Researcher in Energy Economics, <a href='https://www.port.ac.uk/'>University of Portsmouth</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Faculty of Business and Law</p>
+    <p>University of Portsmouth</p>
+    <p>Portsmouth, United Kingdom</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a PhD researcher in Energy Economics at the University of Portsmouth. My research focuses on energy poverty, intergenerational spillovers, education policy, and sustainable development.
+[Machine learning to predict the accuracy]
+[PhD Coursework, Pakistan Institute of Development Economics; MS Economics, International Islamic University Islamabad; MA/BA Economics, University of Karachi.]
+I write about my research and related topics on [my Substack](https://sanayounas.substack.com) [my LinkedIn](www.linkedin.com/in/sana-younas-2a4831bb) [my Twitter](https://x.com/SanabinteIslam) [GoogleScholar](https://scholar.google.com/sanayounas) Feel free to reach out via [email](mailto:sanayounaseco@gmail.com).
