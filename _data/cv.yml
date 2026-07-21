@@ -1,123 +1,122 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Sana Younas
-    - name: Position
-      value: PhD Candidate in Economics, University of Portsmouth, UK
-    - name: Email
-      value: sanayounaseco@gmail.com
-    - name: ORCID
-      value: 0009-0000-9818-9494
-    - name: Research Interests
-      value: Development economics, energy poverty, machine learning, global supply chain networks
-    - name: Languages
-      value: English (fluent), Urdu (native)
+cv:
+  name: Sana Younas
+  location: Portsmouth, United Kingdom
+  email: sanayounaseco@gmail.com
+  website: https://sanayounas.substack.com/
+  social_networks:
+    - network: LinkedIn
+      username: sana-younas-2a4831bb
+    - network: ORCID
+      username: 0009-0000-9818-9494
 
-- title: Education & Qualifications
-  type: time_table
-  contents:
-    - title: PhD in Economics
-      institution: University of Portsmouth, Faculty of Business and Law, UK
-      year: Expected 2026
-      description:
-        - "Thesis: Child Education and Energy Poverty in South Asia: A Capability Approach Perspective."
-        - "Empirical methods: panel data, IV/2SLS, machine learning, explainable AI, network analysis."
-        - All empirical analysis completed; thesis in final writing stage. Expected submission late 2026.
-    - title: Postgraduate Certificate in Higher Education (PGCert HE)
-      institution: University of Portsmouth, CADI
-      year: 2026 –
-      description:
-        - Accredited against Advance HE's Professional Standards Framework (PSF 2023).
-        - Module 1 confers Associate Fellowship (AFHEA, D1); full PGCert HE confers Fellowship of the Higher Education Academy (FHEA, D2).
-    - title: GPROF — Graduate Professional Development in Teaching & Learning
-      institution: University of Portsmouth
-      year: 2026
-      description:
-        - Certified six-part programme covering curriculum design, inclusive pedagogy, assessment strategy, student engagement, and reflective practice.
-    - title: Doctoral Coursework in Economics
-      institution: Pakistan Institute of Development Economics (PIDE), Islamabad
-      year: 2018 – 2020
-      description:
-        - Advanced training in econometrics and development economics; competitive scholarship.
-    - title: MS in Economics
-      institution: International Islamic University, Islamabad
-      year: 2018
-      description:
-        - "Dissertation: Education, Labour Force Participation, and Economic Growth: Panel Data Evidence."
-    - title: MA in Economics
-      institution: University of Karachi
-      year: 2010
-      description:
-        - Silver Medal — 2nd position in Economics.
+  sections:
+    profile:
+      - Economist and university educator with a PhD in Economics nearing completion (University of Portsmouth) and teaching experience at undergraduate and postgraduate levels in the UK and Pakistan. Active research in development economics, energy poverty, machine learning, and global supply chain networks.
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Sessional Teaching Fellow
-      institution: University of Portsmouth, UK
-      year: 2023 – 2024
-      description:
-        - Delivered undergraduate and postgraduate seminars and tutorials in Microeconomics, Macroeconomics, and Applied Economics to diverse international cohorts.
-        - Designed, set, and marked assessments to UK Higher Education standards, providing structured written and verbal feedback.
-        - Developed inclusive learning materials and blended (face-to-face and Moodle VLE) delivery; supported module administration and review.
-    - title: Visiting Faculty
-      institution: Quaid-e-Azam University, Islamabad
-      year: 2019 – 2021
-      description:
-        - Taught Fundamentals of Economics to undergraduate cohorts; designed course materials, delivered lectures and seminars.
-        - Set and marked assessments; supervised student research projects; contributed to curriculum planning.
+    education:
+      - institution: University of Portsmouth
+        area: Economics
+        degree: PhD
+        date: Expected 2026
+        highlights:
+          - "Thesis: Child Education and Energy Poverty in South Asia: A Capability Approach Perspective"
+          - "Empirical methods: panel data, IV/2SLS, machine learning, explainable AI, network analysis"
+          - All empirical analysis completed; thesis in final writing stage
+      - institution: University of Portsmouth, CADI
+        area: Higher Education
+        degree: PGCert HE
+        date: 2026 – present
+        highlights:
+          - Accredited against Advance HE's Professional Standards Framework (PSF 2023); leads to Fellowship of the Higher Education Academy (FHEA)
+      - institution: University of Portsmouth
+        area: Graduate Professional Development in Teaching & Learning (GPROF)
+        degree: Cert.
+        date: "2026"
+        highlights:
+          - Six-part programme covering curriculum design, inclusive pedagogy, assessment strategy, student engagement, and reflective practice
+      - institution: Pakistan Institute of Development Economics (PIDE), Islamabad
+        area: Economics (doctoral coursework)
+        date: 2018 – 2020
+        highlights:
+          - Advanced training in econometrics and development economics; competitive scholarship
+      - institution: International Islamic University, Islamabad
+        area: Economics
+        degree: MS
+        date: "2018"
+        highlights:
+          - "Dissertation: Education, Labour Force Participation, and Economic Growth: Panel Data Evidence"
+      - institution: University of Karachi
+        area: Economics
+        degree: MA
+        date: "2010"
+        highlights:
+          - Silver Medal — 2nd position in Economics
 
-- title: Working Papers & Research Outputs
-  type: list
-  contents:
-    - 'Younas, S. (2026). Beyond Income: Predicting Household Cooking Energy Poverty in Pakistan for Policy Targeting. <a href="https://doi.org/10.2139/ssrn.7071860">SSRN Working Paper</a>.'
-    - "Younas, S. (2026). Bottlenecks and Bargaining Power in the Global Rare Earth Supply Chain: A Multilayer Network Analysis. Submitted to Journal of Cleaner Production."
-    - "Younas, S. (2026). Eldest Child Education and Energy Poverty in Pakistan: Intergenerational Transfers. Working paper, University of Portsmouth."
-    - "Younas, S. et al. (2026). Developing and Validating the AI Digital Betrayal Scale (AI-DBS). Working paper, under review."
+    teaching_experience:
+      - company: University of Portsmouth
+        position: Sessional Teaching Fellow
+        date: 2023 – 2024
+        highlights:
+          - Delivered undergraduate and postgraduate seminars and tutorials in Microeconomics, Macroeconomics, and Applied Economics to diverse international cohorts
+          - Designed, set, and marked assessments to UK Higher Education standards, with structured written and verbal feedback
+          - Developed inclusive learning materials and blended delivery (face-to-face and Moodle VLE); supported module administration and review
+      - company: Quaid-e-Azam University, Islamabad
+        position: Visiting Faculty
+        date: 2019 – 2021
+        highlights:
+          - Taught Fundamentals of Economics to undergraduate cohorts; designed course materials, delivered lectures and seminars
+          - Set and marked assessments; supervised student research projects; contributed to curriculum planning
 
-- title: Selected Presentations & Conferences
-  type: list
-  contents:
-    - USAEE/IAEE North American Conference — oral presentation (accepted, 2026).
-    - 14th Oxford Energy Day — poster, Oxford University Centre for the Environment (accepted, 2026).
-    - IAEE International Conference, Munich (accepted, September 2026).
-    - ICML Poster Presentation, UCL London (2026); ERUNI ERC London Research Workshop (2026); AYEW Monash Workshop on Applied Young Economists (2026).
+    working_papers:
+      - title: "Beyond Income: Predicting Household Cooking Energy Poverty in Pakistan for Policy Targeting"
+        authors:
+          - Sana Younas
+        journal: SSRN Working Paper
+        doi: 10.2139/ssrn.7071860
+        date: "2026"
+      - title: "Bottlenecks and Bargaining Power in the Global Rare Earth Supply Chain: A Multilayer Network Analysis"
+        authors:
+          - Sana Younas
+        journal: Submitted to Journal of Cleaner Production
+        date: "2026"
+      - title: "Eldest Child Education and Energy Poverty in Pakistan: Intergenerational Transfers"
+        authors:
+          - Sana Younas
+        journal: Working paper, University of Portsmouth
+        date: "2026"
+      - title: "Developing and Validating the AI Digital Betrayal Scale (AI-DBS): A Psychometric Instrument for Measuring Student Responses to AI Trust Violations in Academic Settings"
+        authors:
+          - Sana Younas
+          - et al.
+        journal: Working paper, under review
+        date: "2026"
 
-- title: Continuing Professional Development
-  type: list
-  contents:
-    - "ADB Excellerate Programme: Remote Sensing & Machine Learning for Poverty Estimation (2026)."
-    - "CEPEO-ADRUK: National Pupil Database, UCL (2025)."
-    - "RES Easter Training School: Environmental Economics, Bristol (2025)."
-    - Florence School of Regulation Autumn School, TUM-LARS, Munich (selected, September 2026).
+    presentations_and_conferences:
+      - bullet: USAEE/IAEE North American Conference — oral presentation (accepted, 2026)
+      - bullet: 14th Oxford Energy Day, Oxford University Centre for the Environment — poster (accepted, 2026)
+      - bullet: IAEE International Conference, Munich (accepted, September 2026)
+      - bullet: ICML Poster Presentation, UCL London (2026)
+      - bullet: ERUNI ERC London Research Workshop (2026)
+      - bullet: AYEW Monash Workshop on Applied Young Economists (2026)
 
-- title: Academic Engagement & Leadership
-  type: time_table
-  contents:
-    - title: Mentor, Women in Economics Programme
-      institution: University of Portsmouth
-      year: 2025 – present
-    - title: Mentee, Women's Mentoring Programme
-      institution: Royal Economic Society
-      year: 2025 – present
-    - title: PGR Student Representative, Business & Management Cluster
-      institution: University of Portsmouth
-      year: 2024 – 2025
-    - title: Peer Reviewer
-      institution: Routledge — Polycrisis and Economic Development in the Global South (book chapter)
-      year: 2026
+    professional_development:
+      - bullet: "ADB Excellerate Programme: Remote Sensing & Machine Learning for Poverty Estimation (2026)"
+      - bullet: "CEPEO-ADRUK: National Pupil Database, UCL (2025)"
+      - bullet: "RES Easter Training School: Environmental Economics, Bristol (2025)"
+      - bullet: Florence School of Regulation Autumn School, TUM-LARS, Munich (selected, September 2026)
 
-- title: Technical Skills
-  type: list
-  contents:
-    - "Statistical & econometric software: STATA, R, Python (scikit-learn, pandas, shap), LaTeX, Git/GitHub."
-    - "Methods: IV/2SLS, DiD, panel data, propensity score matching, machine learning, explainable AI."
+    academic_engagement_and_leadership:
+      - bullet: Mentor — Women in Economics Programme, University of Portsmouth (2025 – present)
+      - bullet: Mentee — Royal Economic Society Women's Mentoring Programme (2025 – present)
+      - bullet: PGR Student Representative — Business & Management Cluster, University of Portsmouth (2024 – 2025)
+      - bullet: Peer Reviewer — book chapter, Polycrisis and Economic Development in the Global South (Routledge, 2026)
 
-- title: Memberships
-  type: list
-  contents:
-    - Royal Economic Society (RES)
-    - International Association for Energy Economics (IAEE)
-    - British Institute of Energy Economics (BIEE)
-    - International Association for Feminist Economics (IAFFE)
+    skills:
+      - label: Software
+        details: STATA, R, Python (scikit-learn, pandas, shap), LaTeX, Git/GitHub
+      - label: Methods
+        details: IV/2SLS, DiD, panel data, propensity score matching, machine learning, explainable AI
+      - label: Memberships
+        details: Royal Economic Society (RES), IAEE, BIEE, IAFFE
+      - label: Languages
+        details: English (fluent), Urdu (native)
