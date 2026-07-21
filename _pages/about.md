@@ -5,9 +5,9 @@ permalink: /
 subtitle: PhD Researcher in Energy Economics, <a href='https://www.port.ac.uk/'>University of Portsmouth</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Faculty of Business and Law</p>
     <p>University of Portsmouth</p>
